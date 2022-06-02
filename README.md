@@ -2,7 +2,7 @@
 
 Student information.
 
-Student name:
-Student no:
-GitHub account:
+Student name: TestStudent
+Student no: 12345
+GitHub account: github
 
